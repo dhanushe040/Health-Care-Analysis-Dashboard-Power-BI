@@ -65,4 +65,4 @@ Open it in Power BI Desktop
 Interact with filters and visuals to explore insights
 
 📌 Author
-Dhanush – Data Analyst Intern | SQL Developer Passionate about transforming raw data into meaningful visuals and insights. 📍 Tambaram, Tamil Nadu, India 🔗 LinkedIn | GitHub
+Dhanush – Data Analyst Intern | SQL Developer Passionate about transforming raw data into meaningful visuals and insights. 📍 Tambaram, Tamil Nadu, India 🔗 https://www.linkedin.com/in/dhanush-e-181703283/
